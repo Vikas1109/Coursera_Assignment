@@ -1,0 +1,81 @@
+
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 2px solid ; 
+    height: 250px;
+}
+
+
+
+
+.box1 {
+    background-color:yellow;
+    display: inline-block;
+    margin-left: 30px;
+    border: 2px solid black;
+    width: 300px;
+    
+
+}
+
+.box2 {
+    background-color: chartreuse;
+    display: inline-block;
+    margin-left: 30px;
+    border: 2px solid black;
+
+
+    width: 300px;
+    
+    
+}
+
+.box3 {
+    background-color: cyan;
+    display: inline-block;
+    margin-left: 30px;
+    width: 300px;
+    border: 2px solid black;
+ 
+    
+    
+    
+}
+
+li {
+    list-style: none;
+    text-align: center;
+    border: 2px solid;
+   width: 150px;
+   
+   
+
+}
+
+.item1 {
+    
+    background-color: honeydew;
+}
+
+.item2 {
+    background-color: indianred;
+}
+
+.item3 {
+    background-color: powderblue;
+}
+
+header {
+    text-align: center;
+    box-sizing: border-box;
+    margin-bottom: 35px;
+
+
+}
+
+/* large devices only */
+
+
